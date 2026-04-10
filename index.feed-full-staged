@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Parker McIlnay&#39;s sports site</title>
+<link>https://your-website-url.example.com/</link>
+<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<description>A Website about sports and data</description>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Fri, 10 Apr 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/santa-clara-vanguard-2018-dominant/index.html}</title>
+  <dc:creator>Parker McIlnay</dc:creator>
+  <link>https://your-website-url.example.com/posts/santa-clara-vanguard-2018-dominant/</link>
+  <description>{B4F502887207:/posts/santa-clara-vanguard-2018-dominant/index.html}</description>
+  <category>crumcorp</category>
+  <category>competition</category>
+  <guid>https://your-website-url.example.com/posts/santa-clara-vanguard-2018-dominant/</guid>
+  <pubDate>Fri, 10 Apr 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/santa-clara-vanguard-2018-dominant/image.png" medium="image" type="image/png" height="103" width="144"/>
+</item>
+</channel>
+</rss>
