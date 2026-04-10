@@ -21,7 +21,7 @@
 
 
 
-<p>Was the 2018 Santa Clara Vanguard show, Babalon, the most dominant show in the recent history of DCI? The short answer is no. The 2018 show was by far a fan favorite, and everyone knew who was going to win that year, but it was not very far ahead of 2nd place. I’m going to walk you through why it was not the most dominant show or even the highest-rated show in recorded history. Looking at this first chart, you can see that the Santa Clara Vanguard has never won except for 2018, so they had to have been doing something right that year, right?</p>
+<p>Was the 2018 Santa Clara Vanguard show, Babylon, the most dominant show in the recent history of DCI? The short answer is no. The 2018 show was by far a fan favorite, and everyone knew who was going to win that year, but it was not very far ahead of 2nd place. I’m going to walk you through why it was not the most dominant show or even the highest-rated show in recorded history. Looking at this first chart, you can see that the Santa Clara Vanguard has never won except for 2018, so they had to have been doing something right that year, right?</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -471,7 +471,7 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>They were only .2 away from a perfect show, which a perfect show has never happened. I would also like to point out that the margin from the first place show to the second place show is a pretty big margin as well. Why am I showing you this? Well, to show that I am wrong, partially, but I wasn’t that far off from my original idea. Even though this was not the most dominant show ever, it is in the top 5 highest scoring shows, but top scores are not the only thing that shows dominance in DCI. The point margin from first to second place is a very good way, and probably the best way to show how dominant a show was. Looking at this third chart, you can see just how large the margin is from first to second place. While the exact points are not shown, you can see just how large some of the gaps were from gold to silver. While the margin from the 2018 show is very large again, the largest gap from first to second place goes to the 2014 Blue Devils. They managed to win by over 2.5pts, which is insane.</p>
+<p>They were only .2 away from a perfect show, which a perfect show has never happened. I would also like to point out that the margin from the first place show to the second place show is a pretty big margin as well. Why am I showing you this? Well, to show that I am wrong, partially, but I wasn’t that far off from my original idea. Even though this was not the most dominant show ever, it is in the top 5 highest scoring shows, but top scores are not the only thing that shows dominance in DCI. The point margin from first to second place is a very good way, and probably the best way to show how dominant a show was. Looking at this third chart, you can see just how large the margin is from first to second place. While the exact points are not shown, you can see just how large some of the gaps were from gold to silver. While the margin from the 2018 show is very large, the largest gap from first to second place goes to the 2014 Blue Devils. They managed to win by over 2.5pts, which is insane.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -814,7 +814,7 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<pre><code>    Even though the 2018 Santa Clara Vanguard is the most popular show and was a huge fan favorite of the year, the data just doesn't support the fact that it was the most dominant show. That title goes to the 2014 Blue Devils. </code></pre>
+<p>Even though the 2018 Santa Clara Vanguard is the most popular show and was a huge fan favorite of the year, the data just doesn’t support the fact that it was the most dominant show. That title goes to the 2014 Blue Devils.</p>
 
 
 
