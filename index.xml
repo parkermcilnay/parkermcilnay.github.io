@@ -21,7 +21,7 @@
 
 
 
-<p>hjgjhgjhgjh</p>
+<p>Was the 2018 Santa Clara Vanguard show, Babalon, the most dominant show in the recent history of DCI? The short answer is no. The 2018 show was by far a fan favorite, and everyone knew who was going to win that year, but it was not very far ahead of 2nd place. I’m going to walk you through why it was not the most dominant show or even the highest-rated show in recorded history. Looking at this first chart, you can see that the Santa Clara Vanguard has never won except for 2018, so they had to have been doing something right that year, right?</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -311,7 +311,7 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>jhjggjhgjhgjh</p>
+<p>Yes, they did have a very good show, and even early on in the season, people knew that they would sweep at the finals. They had to take down the reigning two-time champs, The Blue Devils, to win it, and they won by a good margin, winning by 1.275pts. In the marching world, it is very common for the pts margin to be within a few tenths of a point, so the fact that they were able to defeat the reigning champ by over a point says a lot about that year’s show. With it being a very dominant show of that year, is it the highest-scoring show ever? Again, no, it wasn’t. That title goes to the 2014 Blue Devils. You can see here in the second chart that they scored a whopping 99.8pts.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -400,24 +400,27 @@ font-style: inherit;">"Who had the highet scoring show in recorded DCI history?"
 background-color: null;
 font-style: inherit;">subtitle=</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Although the 2018 Vanguard was one of the most popular fan favorites it is only the 5th highest ranked show ever."</span>, </span>
-<span id="cb2-15">    <span class="at" style="color: #657422;
+font-style: inherit;">"Although the 2018 Vanguard was one of the most popular fan favorites it is only the </span></span>
+<span id="cb2-15"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">    5th highest ranked show ever."</span>, </span>
+<span id="cb2-16">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"Source: https://www.dci.org/scores/ | By Parker McIlnay"</span></span>
-<span id="cb2-16">    ) <span class="sc" style="color: #5E5E5E;
+<span id="cb2-17">    ) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
-<span id="cb2-17">  <span class="fu" style="color: #4758AB;
+<span id="cb2-18">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span> </span>
-<span id="cb2-18">  <span class="fu" style="color: #4758AB;
+<span id="cb2-19">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme</span>(</span>
-<span id="cb2-19">    <span class="at" style="color: #657422;
+<span id="cb2-20">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -430,7 +433,7 @@ background-color: null;
 font-style: inherit;">face =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"bold"</span>),</span>
-<span id="cb2-20">    <span class="at" style="color: #657422;
+<span id="cb2-21">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">axis.title =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -439,7 +442,7 @@ background-color: null;
 font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">7</span>), </span>
-<span id="cb2-21">    <span class="at" style="color: #657422;
+<span id="cb2-22">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.subtitle =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
@@ -448,17 +451,17 @@ background-color: null;
 font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">10</span>), </span>
-<span id="cb2-22">    <span class="at" style="color: #657422;
+<span id="cb2-23">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">panel.grid.minor =</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">element_blank</span>(),</span>
-<span id="cb2-23">    <span class="at" style="color: #657422;
+<span id="cb2-24">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">plot.title.position =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"plot"</span></span>
-<span id="cb2-24">    ) </span></code></pre></div></div>
+<span id="cb2-25">    ) </span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -468,6 +471,7 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
+<p>They were only .2 away from a perfect show, which a perfect show has never happened. I would also like to point out that the margin from the first place show to the second place show is a pretty big margin as well. Why am I showing you this? Well, to show that I am wrong, partially, but I wasn’t that far off from my original idea. Even though this was not the most dominant show ever, it is in the top 5 highest scoring shows, but top scores are not the only thing that shows dominance in DCI. The point margin from first to second place is a very good way, and probably the best way to show how dominant a show was. Looking at this third chart, you can see just how large the margin is from first to second place. While the exact points are not shown, you can see just how large some of the gaps were from gold to silver. While the margin from the 2018 show is very large again, the largest gap from first to second place goes to the 2014 Blue Devils. They managed to win by over 2.5pts, which is insane.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -810,7 +814,7 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>oijhiuh</p>
+<pre><code>Even though the 2018 Santa Clara Vanguard is the most popular show and was a huge fan favorite of the year, the data just doesn't support the fact that it was the most dominant show. That title goes to the 2014 Blue Devils. </code></pre>
 
 
 
@@ -819,62 +823,7 @@ font-style: inherit;">"plot"</span></span>
   <category>competition</category>
   <guid>https://your-website-url.example.com/posts/santa-clara-vanguard-2018-dominant/</guid>
   <pubDate>Fri, 10 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/santa-clara-vanguard-2018-dominant/image.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Mon, 30 Mar 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Fri, 27 Mar 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/santa-clara-vanguard-2018-dominant/image.png" medium="image" type="image/png" height="103" width="144"/>
 </item>
 </channel>
 </rss>
