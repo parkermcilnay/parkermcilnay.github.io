@@ -2023,7 +2023,7 @@ font-style: inherit;">"plot"</span></span>
   <category>racing</category>
   <guid>https://your-website-url.example.com/posts/valentino-rossi-vs-marc-márquez/</guid>
   <pubDate>Fri, 24 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/valentino-rossi-vs-marc-márquez/image.png" medium="image" type="image/png"/>
+  <media:content url="https://your-website-url.example.com/posts/valentino-rossi-vs-marc-márquez/image.png" medium="image" type="image/png" height="89" width="144"/>
 </item>
 <item>
   <title>Was the 2018 Santa Clara Vanguard the most dominant show since 2013?</title>
